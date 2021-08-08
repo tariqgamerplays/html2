@@ -50,3 +50,7 @@ ul li a:hover{
 color:#484FA8;
  margin: 0;
 }
+
+h1{
+position: fixed
+}
